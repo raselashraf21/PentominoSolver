@@ -1,6 +1,6 @@
-# Solver API
+# Solver 
+For a given pentomino board, the solver will generate all solution for that board. There are two possible approach, one is backtracking method and another is dancing link. This solver writen based on Dancing Link algorithm (https://arxiv.org/abs/cs/0011047). The initial purpose of this implementation to support all solution for "Digital Pentomino App" which is developed by University of Paderborn (https://pentomino-digital.de/). 
 
-Solver API for Pentomino games
 
 # Build
 
